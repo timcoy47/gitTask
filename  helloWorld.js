@@ -1,1 +1,1 @@
-console.log("Git is Awesome!");
+console.log(prompt("enter"));
